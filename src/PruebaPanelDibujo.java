@@ -11,5 +11,6 @@ public class PruebaPanelDibujo {
         aplicacion.setVisible(true);
 
 
+
     }
 }
